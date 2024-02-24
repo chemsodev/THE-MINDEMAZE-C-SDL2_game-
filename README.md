@@ -1,4 +1,4 @@
-
+![alt text]()
 # THE MINDMAZE "SDL2 Game"
 
 This is a game written in C using the SDL2 library along with SDL_ttf, SDL_image, and SDL_mixer.
