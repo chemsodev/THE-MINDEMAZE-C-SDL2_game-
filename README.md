@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/chemsodev/THE-MINDEMAZE-C-SDL2_game-/blob/main/Capture.PNG)
 # THE MINDMAZE "SDL2 Game"
 
 This is a game written in C using the SDL2 library along with SDL_ttf, SDL_image, and SDL_mixer.
@@ -20,10 +20,7 @@ This is a game written in C using the SDL2 library along with SDL_ttf, SDL_image
 first extract the `src.zip` folder  that contain all the libraries needed.
    - **Windows**: Double-click the `game.exe` file.
    - **Linux/macOS**: Open a terminal window in the project folder and type `./game` then press Enter.
-
-
-
-
+![alt text](https://github.com/chemsodev/THE-MINDEMAZE-C-SDL2_game-/blob/main/Capture1.PNG)
 ## Report
 
 For a detailed report about the game, please refer to the accompanying PDF file inside the `src` folder, titled `Game_Report.pdf`.
