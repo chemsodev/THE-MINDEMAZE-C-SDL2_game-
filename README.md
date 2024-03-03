@@ -23,7 +23,7 @@ first extract the `src.zip` folder  that contain all the libraries needed.
 ![alt text](https://github.com/chemsodev/THE-MINDEMAZE-C-SDL2_game-/blob/main/Capture1.PNG)
 ## Report
 
-For a detailed report about the game, please refer to the accompanying PDF file inside the `src` folder, titled `Game_Report.pdf`.
+For a detailed report about the game, please refer to the accompanying PDF file titled `Game_Report.pdf`.
 
 ## Dependencies
 
